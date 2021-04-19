@@ -14,3 +14,19 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+
+##########################################################################################################################################
+
+As discussed PFB the assignment to evaluate your flutter skills. 
+
+https://jsonplaceholder.typicode.com/users
+
+Use the above-mentioned URL for the json data of users and display the users in a list. 
+
+Note:- 
+Use state management to render the data on UI
+Use of search and filter of users is a plus.
+
+###########################################################################################################################################
