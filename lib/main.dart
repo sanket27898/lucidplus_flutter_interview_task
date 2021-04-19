@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:lucidplus_interview_task/Provider/Providerclass.dart';
 import 'package:provider/provider.dart';
-import './JsonParse/jsonParseDemo.dart';
+import 'widget/jsonParseDemo.dart';
 
 void main() {
   runApp(MultiProvider(providers: [
